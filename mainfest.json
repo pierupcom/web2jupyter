@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Webpage to Jupyter Notebook",
+    "version": "1.0",
+    "description": "Convert a webpage into a Jupyter Notebook for learning and educational purposes.",
+    "permissions": [
+      "activeTab"
+    ],
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    }
+  }
